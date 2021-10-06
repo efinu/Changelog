@@ -1,8 +1,7 @@
 <img src="discord-avatar-128-SQ2NY.png" align="right" />
 
 # Changelog | Diagra
-> Email: kontakt@vipexx.de
-> [Discord](https://dsc.gg/diagra-server)
+> [Email](kontakt@vipexx.de) | [Discord](https://dsc.gg/diagra-server) | [Invite](https://dsc.gg/diagra)
 
 -------
 
