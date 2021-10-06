@@ -2,6 +2,7 @@
 
 # Changelog | Diagra
 > Email: kontakt@vipexx.de
+> [Discord(https://dsc.gg/diagra-server)]
 
 -------
 
