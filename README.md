@@ -1,6 +1,6 @@
-<img src="icon.png" align="right" />
+<img src="discord-avatar-512-WF0N6.png" align="right" />
 
-# Changelog [![Diagra](https://cdn.discordapp.com/avatars/861274547709018152/622d04c44fca71b845058a13b1a9c6df.webp)](https://dsc.gg/diagra-server)
+# Changelog [![Diagra]()](https://dsc.gg/diagra-server)
 > Email: kontakt@vipexx.de
 
 -------
